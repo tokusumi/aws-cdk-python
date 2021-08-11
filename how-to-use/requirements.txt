@@ -1,0 +1,5 @@
+aws-cdk.aws-lambda==1.100.0
+aws-cdk.aws-dynamodb==1.100.0
+aws-cdk.aws-events-targets==1.100.0
+aws-cdk.aws_lambda_event_sources==1.100.0
+boto3

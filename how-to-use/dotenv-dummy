@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY_ID=<get access key id in AWS console>
+AWS_SECRET_ACCESS_KEY=<get secret access key in AWS console>
+AWS_DEFAULT_REGION=<set default region. e.g.: ap-northeast-1>
